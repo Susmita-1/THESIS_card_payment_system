@@ -63,12 +63,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ch-hassansaeed/Credit-Card-Payment-System.git"
+    "url": "git+https://github.com/Susmita-1/THESIS_card_payment_system.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ch-hassansaeed/Credit-Card-Payment-System/issues"
+    "url": "https://github.com/Susmita-1/THESIS_card_payment_system/issues"
   },
   "homepage": "."
 }
