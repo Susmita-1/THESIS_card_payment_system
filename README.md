@@ -7,7 +7,7 @@ A Credit Card Payment System - CCPS build with react, typescript, bootstrap, sas
 
 **Project Demo Video :-**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fjGWULgM9z8/0.jpg)](https://youtu.be/fjGWULgM9z8) \
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fjGWULgM9z8/0.jpg)](https://youtu.be/nhLRFdrTgeU) \
 or\
 https://youtu.be/fjGWULgM9z8
 
@@ -58,3 +58,5 @@ http://localhost:3000
 - Integrate API layer if need to link with any restful API
 - Form fields Validation using Regex
 - add helper or common class
+- Strong implementation of RSA in card number, CVV code, account details.
+
