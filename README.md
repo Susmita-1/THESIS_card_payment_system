@@ -7,7 +7,7 @@ A Credit Card Payment System - CCPS build with react, typescript, bootstrap, sas
 
 **Project Demo Video :-**
 
-[![IMAGE ALT TEXT HERE](snapshot2_1)](https://youtu.be/IxnAyl8LJy0) \
+[![IMAGE ALT TEXT HERE](snapshot2_1.png)](https://youtu.be/IxnAyl8LJy0) \
 or\
 https://youtu.be/IxnAyl8LJy0
 
